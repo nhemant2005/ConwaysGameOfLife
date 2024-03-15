@@ -1,6 +1,6 @@
 This is my version of **Conway's Game of Life** (***WOOHOO!!!***)
 
-If you don't know what that is, here is the [Wiki Page]([https://www.example.com](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life))
+If you don't know what that is, here is the wiki link:https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 tl;dr: "The Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead (or populated and unpopulated, respectively)."
 
